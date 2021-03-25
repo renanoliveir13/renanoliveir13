@@ -13,8 +13,7 @@ no [Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guana
  * HTML5
  * CSS
  * Bootstrap
- * 
-
+ 
 ### Contato :link: <h3>
  * E-Mail : renandjolveira@gmail.com
 ### Redes sociais :link: <h3>
