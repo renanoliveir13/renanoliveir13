@@ -16,7 +16,7 @@ no [Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guana
  * 
 
 ### Contato :link: <h3>
- * [E-mail](renandjoliveira@gmail.com)
+ * [E-mail]: renandjoliveira@gmail.com
 
 ### Redes sociais :link: <h3>
  * [LinkedIn](https://www.linkedin.com/in/renan-de-jesus-oliveira-5443b1161/)
